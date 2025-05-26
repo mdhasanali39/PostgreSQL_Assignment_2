@@ -83,7 +83,7 @@ WHERE s_id = ৩;
 ```
 উপরের উদাহরণে যাদের s_id ৩ তাদের রেকর্ড গুলো দেখাবে। 
 where ব্যবহার করে আরো বিভিন্ন অপারেশন করা যায় যেমন:
- $$ compare $$ করার জন্য (>, <, =, !=)
-$$ Logical $$ অপারেটর আছে (and, or and not )
+ **compare** করার জন্য (>, <, =, !=)
+**Logical** অপারেটর আছে (and, or and not )
 আবার আমরা প্যাটার্ন ব্যবহার করতে পারি (LIKE, LIKEI )
-NULL চেক করতে পারি ( is null , is not null )
+**NULL** চেক করতে পারি ( is null , is not null )
